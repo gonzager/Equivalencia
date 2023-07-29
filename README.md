@@ -1,6 +1,6 @@
 # EQUIVALENCIA
 
-**Desde Universidades remotas y muy, muy lejanas, programadores de esas casas de estudio tienen la tarea de hacer un sistema para modelar las personas y los planetas para poder entrar al universo de la UNAHUR. Sabemos que pronto la fuerza del próximo cuatrimestre volverá a despertar y el desarrollo tiene que estar listo pronto, porque lo que necesitamos para aceptar la equivalencia .**
+**Desde Universidades remotas y muy, muy lejanas, programadores de esas casas de estudio tienen la tarea de hacer un sistema para modelar las personas y los planetas para poder entrar al universo de la UNAHUR. Sabemos que pronto la fuerza del próximo cuatrimestre volverá a despertar y el desarrollo tiene que estar listo pronto porque lo que necesitamos para aceptar la equivalencia .**
 
 ## Modelo básico de personas y planetas.
 
